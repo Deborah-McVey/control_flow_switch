@@ -10,4 +10,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'control_flow_switch';
+
+  shippingMethod: string = 'standard';
 }
